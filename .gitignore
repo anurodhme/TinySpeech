@@ -1,0 +1,25 @@
+# TinySpeech Project - Root Git Ignore
+
+# Project planning and documentation
+project_plan.md
+*_plan.md
+planning/
+
+# Audio test files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

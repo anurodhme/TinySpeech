@@ -34,6 +34,19 @@ models/*.bin
 outputs/*.md
 outputs/*.txt
 
+# Audio files (test samples, etc.)
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+
+# Project planning and documentation (keep in separate repo/docs)
+project_plan.md
+*_plan.md
+planning/
+
 # IDE
 .vscode/
 .idea/
