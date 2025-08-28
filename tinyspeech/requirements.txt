@@ -1,0 +1,14 @@
+# TinySpeech Summarizer Dependencies
+# Core ML and Audio Processing
+openai-whisper>=20231117
+google-generativeai>=0.3.0
+torch>=2.0.0
+numpy>=1.24.0
+pydub>=0.25.1
+
+# UI and Configuration
+gradio>=4.0.0
+python-dotenv>=1.0.0
+
+# Additional dependencies that may be needed
+ffmpeg-python>=0.2.0
