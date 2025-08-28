@@ -42,7 +42,7 @@ outputs/*.txt
 *.aac
 *.ogg
 
-# Project planning and documentation (keep in separate repo/docs)
+# Project planning and documentation
 project_plan.md
 *_plan.md
 planning/
