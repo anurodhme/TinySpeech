@@ -2,8 +2,6 @@
 
 A fast, private, local audio processing desktop application that transcribes audio files, generates summaries and chapters, and produces beautifully formatted Markdown reports.
 
-![TinySpeech Demo](demo.gif)
-
 ## Features
 
 - **Local Processing**: Uses OpenAI's Whisper tiny.en model for offline transcription
@@ -134,10 +132,6 @@ If you encounter any issues, please check the existing GitHub issues or create a
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
